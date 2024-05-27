@@ -1,7 +1,11 @@
 body {
     display: flex;
-    flex-direction: column;
-    align-content: center;
+    flex-direction: flex;
+    align-items: center;
+    justify-content: center;
     height: 100vh;
+}
 
+svg {
+    margin: 1rem;
 }

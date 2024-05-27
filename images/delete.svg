@@ -1,0 +1,6 @@
+<svg width="240" height="240" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <symbol id="delete" viewBox="0 0 240 240">
+            <circle cx="120" cy="120" r="110" stroke-width="20" fill="red" stroke="red"/>
+            <polyline points="70,70 170,170" stroke="white" stroke-width="10"/>
+            <polyline points="70,170 170,70" stroke="white" stroke-width="10"/>
+        </symbol>
